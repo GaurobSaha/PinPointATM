@@ -8,5 +8,3 @@ A modular, OOP-based Java project simulating secure ATM transactions, complete w
 - **Transaction Suite:** Supports withdrawals, deposits, and balance checks.
 - **Mini-Statement:** Real-time transaction history using `Map<Double, String>`.
 
-
->>>>>>> ab16479bfa77c6fc7dfb983f9339e2ec1e11cfb9
