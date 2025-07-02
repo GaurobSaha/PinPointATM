@@ -1,0 +1,41 @@
+
+# NetBeans-specific folders
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.build/
+
+# Build output folders
+build/
+classes/
+
+# IntelliJ IDEA (if ever opened there)
+.idea/
+*.iml
+
+# VSCode settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+*.swp
+
+# Java class files
+*.class
+
+# Generated JARs or artifacts
+*.jar
+*.war
+*.ear
+
+# Maven or Gradle files (optional if you’re not using them)
+target/
+.gradle/
+out/
